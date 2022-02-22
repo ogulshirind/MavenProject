@@ -1,1 +1,1 @@
-file2 from github
+file2 from GitHub
